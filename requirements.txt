@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11
+# optional: FastAPI server (otherwise the built-in stdlib server is used automatically)
+fastapi>=0.110
+uvicorn>=0.27
+pytest>=8
